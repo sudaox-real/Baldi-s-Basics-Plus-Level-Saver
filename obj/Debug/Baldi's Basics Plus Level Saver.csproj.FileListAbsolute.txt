@@ -12,3 +12,4 @@ C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\B
 C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\bin\Debug\en-GB\Baldi's Basics Plus Level Saver.resources.dll
 C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi_s_Basics_Plus_Level_Saver.main.en-GB.resources
 C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\en-GB\Baldi's Basics Plus Level Saver.resources.dll
+C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi's Basics Plus Level Saver.csprojAssemblyReference.cache

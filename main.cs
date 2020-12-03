@@ -28,17 +28,12 @@ namespace Baldi_s_Basics_Plus_Level_Saver
             string gamepatht4 = Path.Combine(gamepatht3, "Basically Games");
             string gamepatht5 = Path.Combine(gamepatht4, "Baldi's Basics Plus");
             string name = bbname.Text;
-            // string savename = "s";
             string s3venametmp1 = "PlayerFile_" + name;
             string s3venametmp2 = s3venametmp1;
             string s3venametmp3 = s3venametmp2 + ".dat";
             string gamepath = gamepatht5 + @"\";
-            // MessageBox.Show(gamepath);
             string s3vename = Path.Combine(gamepath, s3venametmp3);
             string saavename = Path.Combine(pathe, s3venametmp3);
-            // MessageBox.Show(s3vename);
-
-            // MessageBox.Show(savename);
             if (!File.Exists(s3vename))
             {
                 MessageBox.Show("No save file with this name exists on your game. Please make sure you have saved in BB+ before trying to save here.", "Error");
@@ -55,7 +50,6 @@ namespace Baldi_s_Basics_Plus_Level_Saver
             string pathd = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
             string pathe = Path.Combine(pathd, "bbls");
             string name = bbname.Text;
-            // string savename = "s";
             string savenametmp1 = "PlayerFile_" + name;
             string savenametmp2 = savenametmp1;
             string savenametmp3 = savenametmp2 + ".dat";
@@ -67,8 +61,6 @@ namespace Baldi_s_Basics_Plus_Level_Saver
             string gamepatht5 = Path.Combine(gamepatht4, "Baldi's Basics Plus");
             string gamepath = gamepatht5 + @"\";
             string gamefilepath = Path.Combine(gamepath, savenametmp3);
-
-            // MessageBox.Show(savename);
             if (!File.Exists(savename))
             {
                 MessageBox.Show("No save file with this name has been saved. Please make sure you have saved before trying to load.", "Error");
