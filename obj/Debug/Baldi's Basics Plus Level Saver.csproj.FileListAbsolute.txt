@@ -1,15 +1,44 @@
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\bin\Debug\Baldi's Basics Plus Level Saver.exe.config
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\bin\Debug\Baldi's Basics Plus Level Saver.exe
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\bin\Debug\Baldi's Basics Plus Level Saver.pdb
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi_s_Basics_Plus_Level_Saver.Form1.resources
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi_s_Basics_Plus_Level_Saver.Properties.Resources.resources
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi's Basics Plus Level Saver.csproj.GenerateResource.cache
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi's Basics Plus Level Saver.csproj.CoreCompileInputs.cache
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi's Basics Plus Level Saver.exe
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi's Basics Plus Level Saver.pdb
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi_s_Basics_Plus_Level_Saver.notes.resources
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi_s_Basics_Plus_Level_Saver.main.resources
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\bin\Debug\en-GB\Baldi's Basics Plus Level Saver.resources.dll
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi_s_Basics_Plus_Level_Saver.main.en-GB.resources
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\en-GB\Baldi's Basics Plus Level Saver.resources.dll
-C:\d\Baldi's Basics Plus Level Saver\Baldi's Basics Plus Level Saver\obj\Debug\Baldi's Basics Plus Level Saver.csprojAssemblyReference.cache
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/bin/Debug/Baldi's Basics Plus Level Saver.exe.config
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/bin/Debug/Baldi's Basics Plus Level Saver.exe
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/bin/Debug/Baldi's Basics Plus Level Saver.pdb
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.Form1.resources
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.Properties.Resources.resources
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi's Basics Plus Level Saver.csproj.GenerateResource.cache
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi's Basics Plus Level Saver.csproj.CoreCompileInputs.cache
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi's Basics Plus Level Saver.exe
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi's Basics Plus Level Saver.pdb
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.notes.resources
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.main.resources
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/bin/Debug/en-GB/Baldi's Basics Plus Level Saver.resources.dll
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.main.en-GB.resources
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/en-GB/Baldi's Basics Plus Level Saver.resources.dll
+C:/d/Baldi's Basics Plus Level Saver/Baldi's Basics Plus Level Saver/obj/Debug/Baldi's Basics Plus Level Saver.csprojAssemblyReference.cache
+Z:/Baldi-s-Basics-Plus-Level-Saver/bin/Debug/Baldi's Basics Plus Level Saver.exe.config
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.exe
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.pdb
+Z:/Baldi-s-Basics-Plus-Level-Saver/bin/Debug/Baldi's Basics Plus Level Saver.exe
+Z:/Baldi-s-Basics-Plus-Level-Saver/bin/Debug/Baldi's Basics Plus Level Saver.pdb
+Z:/Baldi-s-Basics-Plus-Level-Saver/bin/Debug/en-GB/Baldi's Basics Plus Level Saver.resources.dll
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.csprojResolveAssemblyReference.cache
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.Form1.resources
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.main.resources
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.notes.resources
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.Properties.Resources.resources
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.main.en-GB.resources
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.csproj.GenerateResource.Cache
+Z:/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/en-GB/Baldi's Basics Plus Level Saver.resources.dll
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/bin/Debug/Baldi's Basics Plus Level Saver.exe.config
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/bin/Debug/Baldi's Basics Plus Level Saver.exe
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/bin/Debug/Baldi's Basics Plus Level Saver.pdb
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/bin/Debug/en-GB/Baldi's Basics Plus Level Saver.resources.dll
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.csprojAssemblyReference.cache
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.Form1.resources
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.main.resources
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.notes.resources
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.Properties.Resources.resources
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi_s_Basics_Plus_Level_Saver.main.en-GB.resources
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.csproj.GenerateResource.cache
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.csproj.CoreCompileInputs.cache
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/en-GB/Baldi's Basics Plus Level Saver.resources.dll
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.exe
+/home/furious/Baldi-s-Basics-Plus-Level-Saver/obj/Debug/Baldi's Basics Plus Level Saver.pdb
