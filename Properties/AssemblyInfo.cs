@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Baldi's Basics Plus Level Saver")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Baldi's Basics Plus Level Saver")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Sudaox")]
 [assembly: AssemblyProduct("Baldi's Basics Plus Level Saver")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
