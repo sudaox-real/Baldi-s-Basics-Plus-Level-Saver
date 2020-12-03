@@ -137,7 +137,7 @@ namespace Baldi_s_Basics_Plus_Level_Saver
             else
             {
                 File.Copy(s3vename, saavename, true);
-                MessageBox.Show("The save file has been saved into the program's data. You can now load this save whenver you want", name, MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("The save file has been saved into the program's data. You can now load this save whenever you want", name, MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
